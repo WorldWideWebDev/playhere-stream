@@ -22,6 +22,7 @@ The stream can also be opened directly at `http://<volumio-name>.local:8000` or 
 | --- | --- |
 | Raspberry Pi 4 | Volumio 3 |
 | Radxa Rock 3A | Volumio 3 |
+| Hardkernel Odroid C2 | Volumio 3 |
 
 Should work on any Volumio box that has `/volumio/node_modules/kew` and a stock MPD template. The installer checks this before changing anything.
 
