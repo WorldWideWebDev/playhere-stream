@@ -1,5 +1,7 @@
 # Play Here Stream for Volumio
 
+#“From download to playing in about 2 minutes.”
+
 Listen to your Volumio music on the PC you are controlling it from. One click on a **♪ Play here** button inside the Volumio web page, no extra tab, no VLC.
 
 It uses MPD's own built-in HTTP stream output, which Volumio already ships with. The plugin adds the button and keeps the stream set up after updates.
