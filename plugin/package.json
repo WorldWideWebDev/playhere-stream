@@ -1,0 +1,13 @@
+{
+  "name": "labtools",
+  "version": "2.1.0",
+  "description": "Play Here Stream - listen on the controlling PC via MPD's HTTP stream",
+  "main": "index.js",
+  "author": "Anthony",
+  "license": "MIT",
+  "volumio_info": {
+    "prettyName": "Play Here Stream (Lab Tools)",
+    "plugin_type": "miscellanea",
+    "boot_priority": 2
+  }
+}

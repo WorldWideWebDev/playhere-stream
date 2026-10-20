@@ -1,0 +1,16 @@
+{
+  "page": { "label": "Lab Tools" },
+  "sections": [
+    {
+      "id": "labtools",
+      "element": "section",
+      "label": "Play Here",
+      "icon": "fa-headphones",
+      "content": [
+        { "id": "volumiostream", "element": "button", "label": "Show stream address",
+          "onClick": { "type": "emit", "message": "callMethod",
+            "data": { "endpoint": "miscellanea/labtools", "method": "volumioStream", "data": "" } } }
+      ]
+    }
+  ]
+}
